@@ -5,4 +5,4 @@
 `docker run --name local-mysql -e MYSQL_ROOT_PASSWORD=p4ssw0rd -d -p 3306:3306 mysql
 `
 
-# To run API, import into Intellij and download run `App`
+# To run API, import into Intellij and run `App`
